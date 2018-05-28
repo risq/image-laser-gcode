@@ -1,0 +1,20 @@
+{
+  "name": "image-laser-gcode",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:risq/image-laser-gcode.git"
+  },
+  "author": "Valentin LEDRAPIER <contact@valentinledrapier.com>",
+  "license": "MIT",
+  "dependencies": {
+    "canvg": "^1.0.0",
+    "gcanvas": "git+https://github.com/risq/gcanvas.git",
+    "potrace": "^2.1.1"
+  }
+}
